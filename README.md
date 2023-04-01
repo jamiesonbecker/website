@@ -7,3 +7,5 @@ This simple, one-page theme is open source (MIT) and hand-coded to be less than 
 https://jamiesonbecker.com
 
 © 2018 Jamieson Becker, MIT license
+
+![image](https://user-images.githubusercontent.com/99847075/229297152-6903e420-7c29-451c-8464-06199e7753fd.png)
